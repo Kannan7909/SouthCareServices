@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <style>
+    .image-container {
+      background-image: url('images/south-care-contact.jpg');
+      background-size: cover;
+      background-position: center;
+      height: 500px; /* Set the height of the container element */
+      position: relative; /* Set the position to relative to allow absolute positioning */
+    }
+
+    .image-container .overlay {
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background-color: rgba(0, 0, 0, 0.5); /* Set the background color of the overlay */
+    }
+
+    .image-container .header {
+      position: absolute;
+      top: 20px; /* Adjust the top position to place the header where desired */
+      left: 50%; /* Center the header horizontally */
+      transform: translateX(-50%); /* Center the header horizontally */
+      color: white;
+    }
+
+    .image-container .title {
+      position: absolute;
+      top: 60px; /* Adjust the top position to place the title where desired */
+      left: 50%; /* Center the title horizontally */
+      transform: translateX(-50%); /* Center the title horizontally */
+      color: white;
+    }
+
+
+  </style>
+</head>
+<body>
+  <div class="image-container">
+    <div class="overlay"></div>
+    <h1 class="header">Header Text</h1>
+    <h2 class="title">Title Text</h2>
+  </div>
+</body>
+</html>

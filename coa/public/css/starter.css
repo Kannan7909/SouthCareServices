@@ -1,0 +1,50 @@
+.line {
+    border-bottom: 3px solid black;
+  
+}
+.row{
+    padding-top: 10px;  
+}
+.checkbox{
+    margin-top: -25px !important;
+    margin-left: 80px !important;
+}
+.input-data {
+    width: 50% !important;
+    border: none !important;
+    border-bottom: 2px solid black !important;
+}
+ textarea {
+        width: 263px !important;;
+        height: 46px !important;;
+        border: none !important;;
+        outline: none !important;;
+        border-bottom: 2px solid black !important;;
+}
+.field{
+    margin-top: 20px;  
+}
+.radio{
+    margin-top: -23px;  
+    margin-left: 173px;  
+}    
+.male-radio{
+    margin-left: -5px !important;
+}
+.submit{
+    background-color: #673AB7 !important;
+    color:white !important;
+}
+.reset{
+    background-color: #616161 !important;
+    color:white !important;
+}
+.status{
+    margin-left: 10px !important;
+}
+.radio2{
+    margin-top: -50x;  
+    margin-left: 200px;  
+}  
+
+

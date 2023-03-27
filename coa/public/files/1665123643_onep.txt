@@ -1,0 +1,90 @@
+ 
+
+
+
+ 
+
+-> cloud formation login for AWS (Jimmy David)
+
+https://us-east-2.console.aws.amazon.com/cloudformation/home?region=us-east-2#/stacks/create/template 
+
+jimmydavid@solistech.in
+S0l15t3ch
+
+stephen@onqusupport.com
+@69Selwynroad
+
+For accessing RDS, go to Services -> RDS -> Database Instance
+
+For EC2:
+
+ssh -i oneplaceEC2.pem ec2-user@18.188.93.193
+
+ 
+
+
+---------------------------------------------------------------
+
+ BUCKET_NAME = aneeshtest3  1pbucket
+    aws_access_key_id= AKIAWP7TEAQARJC2SB4W
+    aws_secret_access_key=  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
+
+
+Amazon Redshift
+
+---------------------------------------------------------------
+
+ggadmin@aneeshtv84.hopto.org:1522/orcl.hopto.org
+c##ggadmin@aneeshtv84.hopto.org:1521/orclcdb.gt.res.rr.com
+
+---------------------------------------------------------------
+-> cloud formation login for AWS (Jimmy David)
+
+https://us-east-2.console.aws.amazon.com/cloudformation/home?region=us-east-2#/stacks/create/template 
+
+jimmydavid@solistech.in
+S0l15t3ch
+
+---------------------------------------------------------------
+Oracle:
+
+manju
+Edge@360
+---------------------------------------------------------------------
+http://echoapps360.ddns.net:8080/
+
+Username : admin
+password : q
+
+---------------------------------------------------------
+SRCPDB1  SRCPDB2  SRCCDB    (OGG)
+
+Onpremise
+
+c##ggadmin@echoapps360.ddns.net:1521/pdb1.gt.res.rr.com
+c##ggadmin@echoapps360.ddns.net:1521/pdb2.gt.res.rr.com
+c##ggadmin@echoapps360.ddns.net:1521/orclcdb.gt.res.rr.com
+Oracle123
+
+
+AWSDomain
+
+ORCL
+admin@orcl.czvi6rl0adsj.us-east-1.rds.amazonaws.com:1521/orcl
+My1place123
+--------------------------------------------------------------------
+admin@orcl.ckaqyddub0yx.us-east-2.rds.amazonaws.com:1521/orcl
+Oneplace123
+
+
+http://echoapps360.ddns.net:8090 
+
+
+/home/oracle/GG/dirdat/ME
+
+ 
+ 
+
+
+
+
